@@ -1,0 +1,97 @@
+*{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+
+}
+body{
+  padding-top: 2%;
+  background-color: #e2e2e2;
+}
+
+.title {
+  display: flex;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+}
+
+.byline{
+  font-weight: 500;
+  font-style: italic;
+  font-size: 20px;
+}
+
+
+
+.WholeParameterCard{
+  display: flex;
+  justify-content: center;
+
+}
+
+.paracard{
+  width: 30%;
+  height: 30%;
+  
+}
+
+.parameters{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+
+.countryselect{
+  text-align: center;
+}
+
+.app__graphelement{
+  display: flex;
+  justify-content: center;
+}
+
+.app__graphcard{
+  width: 55%;
+}
+
+.app__graph{
+  display: flex;
+  justify-content: center;
+}
+
+.app__statelement{
+  display: flex;
+  justify-content: center;
+}
+
+.app__statcard{
+  width: 50%;
+}
+
+.app__stats{
+  display: flex;
+  justify-content: center;
+}
+
+.app__info{
+  display: flex;
+  justify-content: center;
+}
+
+
+.app__infocard{
+  width: 70%;
+}
+.app__infobox{
+  display: flex;
+  justify-content: space-around;
+}
+
+.app__infoboxtext{
+  width: 60%;
+}
+
+.RishaanImage{
+  height: 250px;
+}
